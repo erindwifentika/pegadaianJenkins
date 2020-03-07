@@ -1,2 +1,2 @@
-print "selamat datang di Jenkins"
-print "hello"
+print ("selamat datang di Jenkins")
+print ("hello")
